@@ -1,2 +1,3 @@
 # Hyun_Data analytics portfolio
-class assignment
+SQL Portfolio: CovidData_Portfolio
+Data Preprocessing(EDA): Airbnb preprocessing project 
