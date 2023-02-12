@@ -1,3 +1,3 @@
 # Hyun_Data analytics portfolio
-SQL Portfolio: CovidData_Portfolio
-Data Preprocessing(EDA): Airbnb preprocessing project 
+1. CovidData_Portfolio 1 : SQL Portfolio    
+2. Airbnb preprocessing project: Data Preprocessing(EDA)  
